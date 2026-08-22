@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+
 <p align="center" style="font-style: italic;"> "Cada error en el código es una oportunidad para entender algo que antes no sabías." 💻🔥
  Hola 👋 soy Deivin, futuro Ingeniero de Sistemas</h1> <h3 align="center">Instituto Tecnológico Metropolitano "ITM"</h3> <p align="center"> 📚 Actualmente estoy aprendiendo: <b>Git, PSeInt, Linux</b> </p>
 🛠️ Stack y herramientas
