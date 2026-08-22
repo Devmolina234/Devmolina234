@@ -9,10 +9,13 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 Estudiante de Desarrollo de Software
 
-Instituto Tecnologico de Medellin "ITM"
+ Instituto Tecnologico de Medellin "ITM"
 
-Actualmente estoy aprendiendo 
+ 📚 Actualmente estoy aprendiendo 
 
-Git,Pseint,Linux
+Git,Pseint,Linux.
 
+🤝🏻 Conéctate conmigo
+
+https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](Molinacero42@gmail.com)
 
