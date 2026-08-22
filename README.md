@@ -7,4 +7,8 @@ Estudiante de Desarrollo de Software
 
 Instituto Tecnologico de Medellin "ITM"
 
-Actualmente estoy aprendiendo GIT,PSEINT
+Actualmente estoy aprendiendo 
+
+Git,Pseint,Linux.
+
+
