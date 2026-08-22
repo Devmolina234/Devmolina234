@@ -6,8 +6,7 @@
  Futuro Ingeniero de sistemas
 <h3 align="center" style="color: #ffffff;">
  
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-Estudiante de Desarrollo de Software
+
 
  Instituto Tecnologico de Medellin "ITM"
 
@@ -17,5 +16,6 @@ Git,Pseint,Linux.
 
 🤝🏻 Conéctate conmigo
 
-https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](Molinacero42@gmail.com)
+[![Gmail](https://img.shields.io/badge/-molinacero42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:molinacero42@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/573226030267)
 
