@@ -11,12 +11,12 @@
 <h3 align="center">Instituto Tecnológico Metropolitano "ITM"</h3>
 
 <p align="center">
-  📚 Actualmente estoy aprendiendo: <b>Git, PSeInt, Linux</b>
+</b>
 </p>
 
 ---
 
-### 🛠️ Stack y herramientas
+### 🛠️ Actualmente aprendiendo 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
