@@ -8,7 +8,13 @@
 
 <h1 align="center">Hola 👋 soy Deivin, futuro Ingeniero de Sistemas</h1>
 
-<h3 align="center">Instituto Tecnológico Metropolitano "ITM"</h3>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+- 🎓 Estudiante de Tecnología en Sistemas de Información / Desarrollo de Software en el **ITM**
+- 💼 Trabajo como auxiliar de bodega y estudio en las noches y fines de semana
+- 🎯 Meta: convertirme en **Full Stack Developer**
+- 🛵 Cuando no estoy programando, ando en mi moto por Medellín
+- 📖 Actualmente leyendo *Clean Code* de Robert C. Martin
+
 
 <p align="center">
 </b>
