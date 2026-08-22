@@ -9,6 +9,6 @@ Instituto Tecnologico de Medellin "ITM"
 
 Actualmente estoy aprendiendo 
 
-Git,Pseint,Linux.
+Git,Pseint,Linux
 
 
