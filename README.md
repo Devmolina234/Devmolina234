@@ -47,7 +47,7 @@
   <a href="mailto:molinacero42@gmail.com">
     <img src="https://img.shields.io/badge/-molinacero42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/573226030267">
+  <a href="https://wa.me/573226030167">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
 </p>
