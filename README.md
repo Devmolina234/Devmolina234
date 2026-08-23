@@ -8,7 +8,8 @@
 
 <h1 align="center">Hola 👋 soy Deivin, futuro Ingeniero de Sistemas</h1>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi
 - 🎓 Estudiante de Tecnología en Sistemas de Información / Desarrollo de Software en el **ITM**
 - 💼 Trabajo como auxiliar de bodega y estudio en las noches y fines de semana
 - 🎯 Meta: convertirme en **Full Stack Developer**
