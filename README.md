@@ -39,6 +39,12 @@
 
 - 🔹 [LinuxdesdeCero](https://github.com/Devmolina234/LinuxdesdeCero) — Registro de mi aprendizaje configurando y usando Linux desde cero.
 
+### 🐍 Una serpiente comiéndose mi gráfico de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devmolina234/Devmolina234/output/github-contribution-grid-snake.svg" alt="Juego de la serpiente"/>
+</p>
+
 ---
 
 ### 🤝🏻 Conéctate conmigo
@@ -52,8 +58,3 @@
   </a>
 </p>
 
-### 🐍 Una serpiente comiéndose mi gráfico de contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devmolina234/Devmolina234/output/github-contribution-grid-snake.svg" alt="Juego de la serpiente"/>
-</p>
