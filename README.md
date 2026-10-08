@@ -34,13 +34,14 @@
   <img src="https://img.shields.io/badge/-PSeInt-4A90D9?style=flat-square&logoColor=white" />
 </p>
 
----
 
-### 📌 Proyectos destacados
 
-- 🔹 [LinuxdesdeCero](https://github.com/Devmolina234/LinuxdesdeCero) — Registro de mi aprendizaje configurando y usando Linux desde cero.
 
----
+
+
+
+
+
 
 ### 🤝🏻 Conéctate conmigo
 
